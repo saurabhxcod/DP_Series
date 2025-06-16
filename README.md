@@ -29,18 +29,18 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ## 📊 Dynamic Problem Roadmap
 
-| 🚩 # | 🧩 Problem Name                            | 🧠 Technique          | ⏱️ Status     |
-| ---- | ------------------------------------------ | --------------------- | ------------- |
-| 1    | Subset Sum Problem                         | 0/1 Knapsack          | ✅ Completed   |
-| 2    | Equal Sum Partition                        | Subset Sum            | ✅ Completed   |
-| 3    | Count of Subsets with Given Sum            | Count DP              | ✅ Completed   |
-| 4    | Minimum Subset Sum Difference              | DP + Math             | ✅ Completed   |
-| 5    | Count of Subsets with Given Difference     | Subset Sum Conversion | ✅ Completed   |
-| 6    | Target Sum (Leetcode #494)                 | Subset Sum Conversion | ✅ Completed   |
-| 7    | 0/1 Knapsack Problem                       | Classic Knapsack      | ✅ Completed   |
-| 8    | Partition Equal Subset Sum (Leetcode #416) | Subset Sum            | ⏳ Coming Soon |
-| 9    | Unbounded Knapsack                         | Infinite Supply DP    | ⏳ Coming Soon |
-| 10   | Rod Cutting Problem                        | Unbounded Knapsack    | ⏳ Coming Soon |
+| 🚩 # | 🧩 Problem Name                            | 🧠 Technique          | 🔗 Problem Link                                                                                                           | ⏱️ Status     |
+| ---- | ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| 1    | Subset Sum Problem                         | 0/1 Knapsack          | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)                                                            | ✅ Completed   |
+| 2    | Equal Sum Partition                        | Subset Sum            | [GFG](https://www.geeksforgeeks.org/partition-problem-dp-18/)                                                             | ✅ Completed   |
+| 3    | Count of Subsets with Given Sum            | Count DP              | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)                                                | ✅ Completed   |
+| 4    | Minimum Subset Sum Difference              | DP + Math             | [GFG](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) | ✅ Completed   |
+| 5    | Count of Subsets with Given Difference     | Subset Sum Conversion | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-given-difference/)                                              | ✅ Completed   |
+| 6    | Target Sum (Leetcode #494)                 | Subset Sum Conversion | [Leetcode](https://leetcode.com/problems/target-sum/)                                                                     | ✅ Completed   |
+| 7    | 0/1 Knapsack Problem                       | Classic Knapsack      | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)                                                          | ✅ Completed   |
+| 8    | Partition Equal Subset Sum (Leetcode #416) | Subset Sum            | [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)                                                     | ⏳ Coming Soon |
+| 9    | Unbounded Knapsack                         | Infinite Supply DP    | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/)                                         | ⏳ Coming Soon |
+| 10   | Rod Cutting Problem                        | Unbounded Knapsack    | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                                                                 | ⏳ Coming Soon |
 
 > 📈 Future Additions: DP on Strings, Grids, Trees, Stocks, Palindromes, LIS, MCM, and more!
 
@@ -66,8 +66,8 @@ DP_Series/
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/saurabhxcod/DP_Series.git
-$ cd DP_Series
+$ git clone https://github.com/your-username/dp-series.git
+$ cd dp-series
 
 # Compile and run any file
 $ g++ 01-subset-sum.cpp -o run
