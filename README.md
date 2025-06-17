@@ -69,7 +69,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ---
 
-## 🗂️ Project Structure
+## 📂️ Project Structure
 
 ```bash
 DP_Series/
@@ -83,10 +83,13 @@ DP_Series/
 ├── 08-partition-equal-subset.cpp
 ├── 09-unbounded-knapsack.cpp
 ├── README.md
+```
 
-🛠️ How to Use This Repo
-bash
-Copy code
+---
+
+## 🚠️ How to Use This Repo
+
+```bash
 # Clone the repo
 $ git clone https://github.com/your-username/dp-series.git
 $ cd dp-series
@@ -94,31 +97,40 @@ $ cd dp-series
 # Compile and run any file
 $ g++ 09-unbounded-knapsack.cpp -o run
 $ ./run
-👨‍🎓 Who Should Use This?
-🧑‍💻 Beginners learning recursion and DP
+```
 
-🎯 Competitive programmers
+---
 
-👩‍💼 Interview candidates for FAANG, startups, and more
+## 👨‍🎓 Who Should Use This?
 
-🔁 Anyone tired of boring DP tutorials
+* 🧑‍💻 Beginners learning recursion and DP
+* 🎯 Competitive programmers
+* 👩‍💼 Interview candidates for FAANG, startups, and more
+* ⟳ Anyone tired of boring DP tutorials
 
-🤝 Contribution
-PRs are welcome!
+---
 
-Add optimized solutions
+## 🤝 Contribution
 
-Suggest advanced DP challenges
+Contributions are welcome!
 
-Share unique tricks
+* ✅ Add optimized solutions
+* 🤩 Suggest advanced DP challenges
+* 💡 Share unique tricks and ideas
 
-👤 Author
-Saurabh Singh
+---
+
+## 👤 Author
+
+**Saurabh Singh**
 🔥 Passionate C++ Dev | 🧠 Problem Solver | 💼 DSA Mentor
 
+[![GitHub](https://img.shields.io/badge/GitHub-saurabhxcod-black?logo=github)](https://github.com/saurabhxcod)
 
+---
 
-⭐ If you like it...
+## ⭐ If you like it...
+
 Give this repo a ⭐ and share it with your fellow learners!
 
-"DP is the art of solving problems by remembering past solutions. Make it your strength, not fear."
+> "DP is the art of solving problems by remembering past solutions. Make it your strength, not fear."
