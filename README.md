@@ -8,22 +8,22 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ## 📘 What This Repo Offers Like No Other
 
-✅ **Custom-styled Markdown Interface** – Clean, readable, and attractive ✨  
-✅ **C++ Solutions** with extensive comments and time-space analysis 🧠  
-✅ **Step-by-step breakdowns** with recursion → memo → tabulation 🔁  
-✅ **Code-First Approach** – Less theory, more implementation 🔧  
-✅ **Real-world problem solving from Leetcode, GFG, InterviewBit** 🧑‍💻  
+✅ **Custom-styled Markdown Interface** – Clean, readable, and attractive ✨
+✅ **C++ Solutions** with extensive comments and time-space analysis 🧠
+✅ **Step-by-step breakdowns** with recursion → memo → tabulation 🔁
+✅ **Code-First Approach** – Less theory, more implementation 🔧
+✅ **Real-world problem solving from Leetcode, GFG, InterviewBit** 🧑‍💻
 
 ---
 
 ## 🎯 What You'll Learn
 
-* 🔄 Convert Recursion to Tabulation like a pro  
-* 💾 Memorization (Top-Down) and Tabulation (Bottom-Up)  
-* 🚀 Space Optimized Tricks for interviews  
-* 🧩 Classic & Mind-bending DP problems  
-* 🧪 Leetcode/GFG Style Breakdown  
-* ✍️ Clean code with smart comments  
+* 🔄 Convert Recursion to Tabulation like a pro
+* 💾 Memorization (Top-Down) and Tabulation (Bottom-Up)
+* 🚀 Space Optimized Tricks for interviews
+* 🧩 Classic & Mind-bending DP problems
+* 🧪 Leetcode/GFG Style Breakdown
+* ✍️ Clean code with smart comments
 
 ---
 
@@ -46,26 +46,26 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟩 II. Unbounded Knapsack and Its Variants
 
-| 🚩 # | 🧩 Problem Name              | 🧠 Technique        | 🔗 Problem Link                                                                                       | ⏱️ Status     |
-| ---- | --------------------------- | -------------------| ------------------------------------------------------------------------------------------------------ | ------------- |
-| 9    | Unbounded Knapsack          | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/)                     | ✅ Completed   |
-| 10   | Rod Cutting Problem         | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                                             | ⏳ Coming Soon |
-| 11   | Coin Change (Ways)          | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change-ii/)                                              | ⏳ Coming Soon |
-| 12   | Coin Change (Min Coins)     | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change/)                                                 | ⏳ Coming Soon |
+| 🚩 # | 🧩 Problem Name         | 🧠 Technique       | 🔗 Problem Link                                                                   | ⏱️ Status     |
+| ---- | ----------------------- | ------------------ | --------------------------------------------------------------------------------- | ------------- |
+| 9    | Unbounded Knapsack      | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) | ✅ Completed   |
+| 10   | Rod Cutting Problem     | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                         | ✅ Completed   |
+| 11   | Coin Change (Ways)      | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change-ii/)                         | ⏳ Coming Soon |
+| 12   | Coin Change (Min Coins) | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change/)                            | ⏳ Coming Soon |
 
 ---
 
 ### 🟨 III. Coming Next (Other DP Categories)
 
-| 🚀 Category               | ⏳ Status      |
-| ------------------------ | ------------- |
-| DP on Strings            | Coming Soon   |
-| DP on Grids              | Coming Soon   |
-| Longest Increasing Subseq| Coming Soon   |
-| Matrix Chain Multiplication (MCM) | Coming Soon   |
-| DP on Trees              | Coming Soon   |
-| Stocks DP                | Coming Soon   |
-| Palindrome DP            | Coming Soon   |
+| 🚀 Category                       | ⏳ Status    |
+| --------------------------------- | ----------- |
+| DP on Strings                     | Coming Soon |
+| DP on Grids                       | Coming Soon |
+| Longest Increasing Subseq         | Coming Soon |
+| Matrix Chain Multiplication (MCM) | Coming Soon |
+| DP on Trees                       | Coming Soon |
+| Stocks DP                         | Coming Soon |
+| Palindrome DP                     | Coming Soon |
 
 ---
 
@@ -82,6 +82,7 @@ DP_Series/
 ├── 07-target-sum.cpp
 ├── 08-partition-equal-subset.cpp
 ├── 09-unbounded-knapsack.cpp
+├── 10-rod-cutting.cpp
 ├── README.md
 ```
 
@@ -95,7 +96,7 @@ $ git clone https://github.com/your-username/dp-series.git
 $ cd dp-series
 
 # Compile and run any file
-$ g++ 09-unbounded-knapsack.cpp -o run
+$ g++ 10-rod-cutting.cpp -o run
 $ ./run
 ```
 
