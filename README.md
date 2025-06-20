@@ -50,7 +50,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 | ---- | ----------------------- | ------------------ | --------------------------------------------------------------------------------- | ------------- |
 | 9    | Unbounded Knapsack      | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) | ✅ Completed   |
 | 10   | Rod Cutting Problem     | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                         | ✅ Completed   |
-| 11   | Coin Change (Ways)      | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change-ii/)                         | ⏳ Coming Soon |
+| 11   | Coin Change (Ways)      | Complete Pack DP   | [GFG](https://www.geeksforgeeks.org/problems/coin-change2448/1)                   | ✅ Completed   |
 | 12   | Coin Change (Min Coins) | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change/)                            | ⏳ Coming Soon |
 
 ---
@@ -83,6 +83,7 @@ DP_Series/
 ├── 08-partition-equal-subset.cpp
 ├── 09-unbounded-knapsack.cpp
 ├── 10-rod-cutting.cpp
+├── 11-coin-change-ways.cpp
 ├── README.md
 ```
 
@@ -96,7 +97,7 @@ $ git clone https://github.com/your-username/dp-series.git
 $ cd dp-series
 
 # Compile and run any file
-$ g++ 10-rod-cutting.cpp -o run
+$ g++ 11-coin-change-ways.cpp -o run
 $ ./run
 ```
 
