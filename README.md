@@ -31,27 +31,27 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟦 I. 0/1 Knapsack and Its Variants
 
-| 🚩 # | 🧩 Problem Name                            | 🧠 Technique          | 🔗 Problem Link                                                                                                           | ⏱️ Status     |
-| ---- | ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 1    | 0/1 Knapsack Problem                       | Classic Knapsack      | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)                                                          | ✅ Completed   |
-| 2    | Subset Sum Problem                         | 0/1 Knapsack          | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)                                                            | ✅ Completed   |
-| 3    | Equal Sum Partition                        | Subset Sum            | [GFG](https://www.geeksforgeeks.org/partition-problem-dp-18/)                                                             | ✅ Completed   |
-| 4    | Count of Subsets with Given Sum            | Count DP              | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)                                                | ✅ Completed   |
-| 5    | Minimum Subset Sum Difference              | DP + Math             | [GFG](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) | ✅ Completed   |
-| 6    | Count of Subsets with Given Difference     | Subset Sum Conversion | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-given-difference/)                                              | ✅ Completed   |
-| 7    | Target Sum (Leetcode #494)                 | Subset Sum Conversion | [Leetcode](https://leetcode.com/problems/target-sum/)                                                                     | ✅ Completed   |
-| 8    | Partition Equal Subset Sum (Leetcode #416) | Subset Sum            | [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)                                                     | ⏳ Coming Soon |
+| 🚩 # | 🧩 Problem Name                            | 🧠 Technique          | 🔗 Problem Link                                                                                                           | ⏱️ Status   |
+| ---- | ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 1    | 0/1 Knapsack Problem                       | Classic Knapsack      | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)                                                          | ✅ Completed |
+| 2    | Subset Sum Problem                         | 0/1 Knapsack          | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)                                                            | ✅ Completed |
+| 3    | Equal Sum Partition                        | Subset Sum            | [GFG](https://www.geeksforgeeks.org/partition-problem-dp-18/)                                                             | ✅ Completed |
+| 4    | Count of Subsets with Given Sum            | Count DP              | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)                                                | ✅ Completed |
+| 5    | Minimum Subset Sum Difference              | DP + Math             | [GFG](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) | ✅ Completed |
+| 6    | Count of Subsets with Given Difference     | Subset Sum Conversion | [GFG](https://www.geeksforgeeks.org/count-of-subsets-with-given-difference/)                                              | ✅ Completed |
+| 7    | Target Sum (Leetcode #494)                 | Subset Sum Conversion | [Leetcode](https://leetcode.com/problems/target-sum/)                                                                     | ✅ Completed |
+| 8    | Partition Equal Subset Sum (Leetcode #416) | Subset Sum            | [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)                                                     | ✅ Completed |
 
 ---
 
 ### 🟩 II. Unbounded Knapsack and Its Variants
 
-| 🚩 # | 🧩 Problem Name         | 🧠 Technique       | 🔗 Problem Link                                                                   | ⏱️ Status     |
-| ---- | ----------------------- | ------------------ | --------------------------------------------------------------------------------- | ------------- |
-| 9    | Unbounded Knapsack      | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) | ✅ Completed   |
-| 10   | Rod Cutting Problem     | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                         | ✅ Completed   |
-| 11   | Coin Change (Ways)      | Complete Pack DP   | [GFG](https://www.geeksforgeeks.org/problems/coin-change2448/1)                   | ✅ Completed   |
-| 12   | Coin Change (Min Coins) | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change/)                            | ⏳ Coming Soon |
+| 🚩 # | 🧩 Problem Name            | 🧠 Technique       | 🔗 Problem Link                                                                   | ⏱️ Status   |
+| ---- | -------------------------- | ------------------ | --------------------------------------------------------------------------------- | ----------- |
+| 9    | Unbounded Knapsack         | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) | ✅ Completed |
+| 10   | Rod Cutting Problem        | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                         | ✅ Completed |
+| 11   | Coin Change I (Max Ways)   | Complete Pack DP   | [GFG](https://www.geeksforgeeks.org/problems/coin-change2448/1)                   | ✅ Completed |
+| 12   | Coin Change II (Min Coins) | Complete Pack DP   | [Leetcode](https://leetcode.com/problems/coin-change/)                            | ✅ Completed |
 
 ---
 
@@ -84,6 +84,7 @@ DP_Series/
 ├── 09-unbounded-knapsack.cpp
 ├── 10-rod-cutting.cpp
 ├── 11-coin-change-ways.cpp
+├── 12-coin-change-min.cpp
 ├── README.md
 ```
 
