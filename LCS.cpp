@@ -69,6 +69,42 @@ int main() {
 }
 
 
+//Top-Down Code
+
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+int longestCommonSubsequence(string s1, string s2) {
+    int n = s1.length();
+    int m = s2.length();
+    
+    // Create a dp table of size (n+1) x (m+1)
+    vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+    
+    // Build the table in bottom-up manner
+    for (int i = 1; i <= n; i++) {
+        for (int j = 1; j <= m; j++) {
+            if (s1[i - 1] == s2[j - 1]) {
+                // Characters match
+                dp[i][j] = 1 + dp[i - 1][j - 1];
+            } else {
+                // Characters don't match
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+            }
+        }
+    }
+    
+    return dp[n][m];
+}
+
+int main() {
+    string s1 = "abcde";
+    string s2 = "ace";
+    cout << "Length of LCS: " << longestCommonSubsequence(s1, s2) << endl;
+    return 0;
+}
 
 
 
