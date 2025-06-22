@@ -10,7 +10,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ✅ **Custom-styled Markdown Interface** – Clean, readable, and attractive ✨
 ✅ **C++ Solutions** with extensive comments and time-space analysis 🧠
-✅ **Step-by-step breakdowns** with recursion → memo → tabulation 🔁
+✅ **Step-by-step breakdowns** with recursion → memo → tabulation ⟲
 ✅ **Code-First Approach** – Less theory, more implementation 🔧
 ✅ **Real-world problem solving from Leetcode, GFG, InterviewBit** 🧑‍💻
 
@@ -55,13 +55,22 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ---
 
-### 🟨 III. Coming Next (Other DP Categories)
+### 🟨 III. LCS and String DP
+
+| 🚩 # | 🧩 Problem Name                  | 🧠 Technique     | 🔗 Problem Link                                                                  | ⏱️ Status   |
+| ---- | -------------------------------- | ---------------- | -------------------------------------------------------------------------------- | ----------- |
+| 13   | Longest Common Subsequence (LCS) | DP on Strings    | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)      | ✅ Completed |
+| 14   | LCS – Memoized (Top-Down)        | Recursion + Memo | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)        | ✅ Completed |
+| 15   | LCS – Tabulation (Bottom-Up)     | DP Table         | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) | ✅ Completed |
+
+---
+
+### ⏳ IV. Coming Next (Other DP Categories)
 
 | 🚀 Category                       | ⏳ Status    |
 | --------------------------------- | ----------- |
-| DP on Strings                     | Coming Soon |
 | DP on Grids                       | Coming Soon |
-| Longest Increasing Subseq         | Coming Soon |
+| Longest Increasing Subsequence    | Coming Soon |
 | Matrix Chain Multiplication (MCM) | Coming Soon |
 | DP on Trees                       | Coming Soon |
 | Stocks DP                         | Coming Soon |
@@ -85,6 +94,8 @@ DP_Series/
 ├── 10-rod-cutting.cpp
 ├── 11-coin-change-ways.cpp
 ├── 12-coin-change-min.cpp
+├── 13-lcs-memoized.cpp
+├── 14-lcs-tabulated.cpp
 ├── README.md
 ```
 
@@ -98,7 +109,7 @@ $ git clone https://github.com/your-username/dp-series.git
 $ cd dp-series
 
 # Compile and run any file
-$ g++ 11-coin-change-ways.cpp -o run
+$ g++ 14-lcs-tabulated.cpp -o run
 $ ./run
 ```
 
@@ -107,7 +118,7 @@ $ ./run
 ## 👨‍🎓 Who Should Use This?
 
 * 🧑‍💻 Beginners learning recursion and DP
-* 🎯 Competitive programmers
+* 🌟 Competitive programmers
 * 👩‍💼 Interview candidates for FAANG, startups, and more
 * ⟳ Anyone tired of boring DP tutorials
 
