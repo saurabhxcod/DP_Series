@@ -62,6 +62,8 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 | 13   | Longest Common Subsequence (LCS) | DP on Strings    | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)      | ✅ Completed |
 | 14   | LCS – Memoized (Top-Down)        | Recursion + Memo | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)        | ✅ Completed |
 | 15   | LCS – Tabulation (Bottom-Up)     | DP Table         | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) | ✅ Completed |
+| 16   | Longest Common Substring         | DP Table         | [GFG](https://www.geeksforgeeks.org/longest-common-substring/)                   | ✅ Completed |
+| 17   | Print LCS using Backtracking     | DP + Trace Path  | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)        | ✅ Completed |
 
 ---
 
@@ -96,6 +98,8 @@ DP_Series/
 ├── 12-coin-change-min.cpp
 ├── 13-lcs-memoized.cpp
 ├── 14-lcs-tabulated.cpp
+├── 15-longest-common-substring.cpp
+├── 16-print-lcs.cpp
 ├── README.md
 ```
 
@@ -109,7 +113,7 @@ $ git clone https://github.com/your-username/dp-series.git
 $ cd dp-series
 
 # Compile and run any file
-$ g++ 14-lcs-tabulated.cpp -o run
+$ g++ 16-print-lcs.cpp -o run
 $ ./run
 ```
 
