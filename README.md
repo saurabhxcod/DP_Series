@@ -57,13 +57,15 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟨 III. LCS and String DP
 
-| 🚩 # | 🧩 Problem Name                  | 🧠 Technique     | 🔗 Problem Link                                                                  | ⏱️ Status   |
-| ---- | -------------------------------- | ---------------- | -------------------------------------------------------------------------------- | ----------- |
-| 13   | Longest Common Subsequence (LCS) | DP on Strings    | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)      | ✅ Completed |
-| 14   | LCS – Memoized (Top-Down)        | Recursion + Memo | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)        | ✅ Completed |
-| 15   | LCS – Tabulation (Bottom-Up)     | DP Table         | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) | ✅ Completed |
-| 16   | Longest Common Substring         | DP Table         | [GFG](https://www.geeksforgeeks.org/longest-common-substring/)                   | ✅ Completed |
-| 17   | Print LCS using Backtracking     | DP + Trace Path  | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)        | ✅ Completed |
+| 🚩 # | 🧩 Problem Name                                | 🧠 Technique       | 🔗 Problem Link                                                                                                                                                                            | ⏱️ Status   |
+| ---- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 13   | Longest Common Subsequence (LCS)               | DP on Strings      | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)                                                                                                                | ✅ Completed |
+| 14   | LCS – Memoized (Top-Down)                      | Recursion + Memo   | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                                  | ✅ Completed |
+| 15   | LCS – Tabulation (Bottom-Up)                   | DP Table           | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                           | ✅ Completed |
+| 16   | Longest Common Substring                       | DP Table           | [GFG](https://www.geeksforgeeks.org/longest-common-substring/)                                                                                                                             | ✅ Completed |
+| 17   | Print LCS using Backtracking                   | DP + Trace Path    | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)                                                                                                                  | ✅ Completed |
+| 18   | Shortest Common Supersequence                  | LCS + Build String | [Leetcode #1092](https://leetcode.com/problems/shortest-common-supersequence/) \| [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                      | ✅ Completed |
+| 19   | Min Insertions and Deletions to Convert A to B | LCS Based          | [Leetcode #583](https://leetcode.com/problems/delete-operation-for-two-strings/) \| [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/) | ✅ Completed |
 
 ---
 
@@ -100,6 +102,8 @@ DP_Series/
 ├── 14-lcs-tabulated.cpp
 ├── 15-longest-common-substring.cpp
 ├── 16-print-lcs.cpp
+├── 17-shortest-common-supersequence.cpp
+├── 18-min-insert-delete.cpp
 ├── README.md
 ```
 
