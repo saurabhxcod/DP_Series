@@ -21,7 +21,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 * 🔄 Convert Recursion to Tabulation like a pro
 * 💾 Memorization (Top-Down) and Tabulation (Bottom-Up)
 * 🚀 Space Optimized Tricks for interviews
-* 🧩 Classic & Mind-bending DP problems
+* 🧹 Classic & Mind-bending DP problems
 * 🧪 Leetcode/GFG Style Breakdown
 * ✍️ Clean code with smart comments
 
@@ -31,7 +31,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟦 I. 0/1 Knapsack and Its Variants
 
-| 🚩 # | 🧩 Problem Name                            | 🧠 Technique          | 🔗 Problem Link                                                                                                           | ⏱️ Status   |
+| 🚩 # | 🤩 Problem Name                            | 🧠 Technique          | 🔗 Problem Link                                                                                                           | ⏱️ Status   |
 | ---- | ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 1    | 0/1 Knapsack Problem                       | Classic Knapsack      | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)                                                          | ✅ Completed |
 | 2    | Subset Sum Problem                         | 0/1 Knapsack          | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)                                                            | ✅ Completed |
@@ -46,7 +46,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟩 II. Unbounded Knapsack and Its Variants
 
-| 🚩 # | 🧩 Problem Name            | 🧠 Technique       | 🔗 Problem Link                                                                   | ⏱️ Status   |
+| 🚩 # | 🤩 Problem Name            | 🧠 Technique       | 🔗 Problem Link                                                                   | ⏱️ Status   |
 | ---- | -------------------------- | ------------------ | --------------------------------------------------------------------------------- | ----------- |
 | 9    | Unbounded Knapsack         | Infinite Supply DP | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) | ✅ Completed |
 | 10   | Rod Cutting Problem        | Unbounded Knapsack | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                         | ✅ Completed |
@@ -57,7 +57,7 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟨 III. LCS and String DP
 
-| 🚩 # | 🧩 Problem Name                                | 🧠 Technique       | 🔗 Problem Link                                                                                                                                                                            | ⏱️ Status   |
+| 🚩 # | 🤩 Problem Name                                | 🧠 Technique       | 🔗 Problem Link                                                                                                                                                                            | ⏱️ Status   |
 | ---- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | 13   | Longest Common Subsequence (LCS)               | DP on Strings      | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)                                                                                                                | ✅ Completed |
 | 14   | LCS – Memoized (Top-Down)                      | Recursion + Memo   | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                                  | ✅ Completed |
@@ -66,6 +66,8 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 | 17   | Print LCS using Backtracking                   | DP + Trace Path    | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)                                                                                                                  | ✅ Completed |
 | 18   | Shortest Common Supersequence                  | LCS + Build String | [Leetcode #1092](https://leetcode.com/problems/shortest-common-supersequence/) \| [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                      | ✅ Completed |
 | 19   | Min Insertions and Deletions to Convert A to B | LCS Based          | [Leetcode #583](https://leetcode.com/problems/delete-operation-for-two-strings/) \| [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/) | ✅ Completed |
+| 20   | Longest Palindromic Subsequence                | LCS on Reverse     | [Leetcode #516](https://leetcode.com/problems/longest-palindromic-subsequence/) \| [GFG](https://www.geeksforgeeks.org/longest-palindromic-subsequence/)                                   | ✅ Completed |
+| 21   | Min Deletions to Make String Palindromic       | LPS Based          | [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-to-make-a-string-palindrome/)                                                                                                 | ✅ Completed |
 
 ---
 
@@ -104,6 +106,8 @@ DP_Series/
 ├── 16-print-lcs.cpp
 ├── 17-shortest-common-supersequence.cpp
 ├── 18-min-insert-delete.cpp
+├── 19-longest-palindromic-subsequence.cpp
+├── 20-min-deletion-to-make-palindrome.cpp
 ├── README.md
 ```
 
