@@ -57,20 +57,21 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ### 🟨 III. LCS and String DP
 
-| 🚩 # | 🤩 Problem Name                                | 🧠 Technique         | 🔗 Problem Link                                                                                                                                                                            | ⏱️ Status   |
-| ---- | ---------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 13   | Longest Common Subsequence (LCS)               | DP on Strings        | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)                                                                                                                | ✅ Completed |
-| 14   | LCS – Memoized (Top-Down)                      | Recursion + Memo     | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                                  | ✅ Completed |
-| 15   | LCS – Tabulation (Bottom-Up)                   | DP Table             | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                           | ✅ Completed |
-| 16   | Longest Common Substring                       | DP Table             | [GFG](https://www.geeksforgeeks.org/longest-common-substring/)                                                                                                                             | ✅ Completed |
-| 17   | Print LCS using Backtracking                   | DP + Trace Path      | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)                                                                                                                  | ✅ Completed |
-| 18   | Shortest Common Supersequence                  | LCS + Build String   | [Leetcode #1092](https://leetcode.com/problems/shortest-common-supersequence/) \| [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                      | ✅ Completed |
-| 19   | Print Shortest Common Supersequence            | LCS + Backtracking   | [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                                                                                                        | ✅ Completed |
-| 20   | Min Insertions and Deletions to Convert A to B | LCS Based            | [Leetcode #583](https://leetcode.com/problems/delete-operation-for-two-strings/) \| [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/) | ✅ Completed |
-| 21   | Longest Palindromic Subsequence                | LCS on Reverse       | [Leetcode #516](https://leetcode.com/problems/longest-palindromic-subsequence/) \| [GFG](https://www.geeksforgeeks.org/longest-palindromic-subsequence/)                                   | ✅ Completed |
-| 22   | Min Deletions to Make String Palindromic       | LPS Based            | [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-to-make-a-string-palindrome/)                                                                                                 | ✅ Completed |
-| 23   | Longest Repeating Subsequence                  | LCS with i ≠ j       | [GFG](https://www.geeksforgeeks.org/longest-repeating-subsequence/)                                                                                                                        | ✅ Completed |
-
+| 🚩 # | 🤩 Problem Name                                | 🧠 Technique       | 🔗 Problem Link                                                                                                                                                                            | ⏱️ Status   |
+| ---- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 13   | Longest Common Subsequence (LCS)               | DP on Strings      | [Leetcode #1143](https://leetcode.com/problems/longest-common-subsequence/)                                                                                                                | ✅ Completed |
+| 14   | LCS – Memoized (Top-Down)                      | Recursion + Memo   | [GFG LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                                  | ✅ Completed |
+| 15   | LCS – Tabulation (Bottom-Up)                   | DP Table           | [GFG Tabulation](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)                                                                                                           | ✅ Completed |
+| 16   | Longest Common Substring                       | DP Table           | [GFG](https://www.geeksforgeeks.org/longest-common-substring/)                                                                                                                             | ✅ Completed |
+| 17   | Print LCS using Backtracking                   | DP + Trace Path    | [GFG](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)                                                                                                                  | ✅ Completed |
+| 18   | Shortest Common Supersequence                  | LCS + Build String | [Leetcode #1092](https://leetcode.com/problems/shortest-common-supersequence/) \| [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                      | ✅ Completed |
+| 19   | Print Shortest Common Supersequence            | LCS + Backtracking | [GFG](https://www.geeksforgeeks.org/shortest-common-supersequence/)                                                                                                                        | ✅ Completed |
+| 20   | Min Insertions and Deletions to Convert A to B | LCS Based          | [Leetcode #583](https://leetcode.com/problems/delete-operation-for-two-strings/) \| [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/) | ✅ Completed |
+| 21   | Longest Palindromic Subsequence                | LCS on Reverse     | [Leetcode #516](https://leetcode.com/problems/longest-palindromic-subsequence/) \| [GFG](https://www.geeksforgeeks.org/longest-palindromic-subsequence/)                                   | ✅ Completed |
+| 22   | Min Deletions to Make String Palindromic       | LPS Based          | [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-to-make-a-string-palindrome/)                                                                                                 | ✅ Completed |
+| 23   | Longest Repeating Subsequence                  | LCS with i ≠ j     | [GFG](https://www.geeksforgeeks.org/longest-repeating-subsequence/)                                                                                                                        | ✅ Completed |
+| 24   | Minimum Insertions to Make String Palindrome   | LCS Based          | [GFG](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome/)                                                                                                              | ✅ Completed |
+| 25   | Sequence Pattern Matching (Subsequence Check)  | LCS / Two Pointer  | [GFG](https://www.geeksforgeeks.org/check-if-a-string-is-subsequence-of-another/)                                                                                                          | ✅ Completed |
 
 ---
 
@@ -109,12 +110,13 @@ DP_Series/
 ├── 16-print-lcs.cpp
 ├── 17-shortest-common-supersequence.cpp
 ├── 18-min-insert-delete.cpp
-├── 19-print-scs.cpp                        # 🔥 NEW
+├── 19-print-scs.cpp
 ├── 20-longest-palindromic-subsequence.cpp
 ├── 21-min-deletion-to-make-palindrome.cpp
-├── 22-longest-repeating-subsequence.cpp   # 🔥 NEW
+├── 22-longest-repeating-subsequence.cpp
+├── 23-min-insert-to-make-palindrome.cpp         # 🔥 NEW
+├── 24-sequence-pattern-matching.cpp              # 🔥 NEW
 ├── README.md
-
 ```
 
 ---
