@@ -75,16 +75,24 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ---
 
-### ⏳ IV. Coming Next (Other DP Categories)
+### 🟨 IV. Matrix Chain Multiplication (MCM) and Variants
 
-| 🚀 Category                       | ⏳ Status    |
-| --------------------------------- | ----------- |
-| DP on Grids                       | Coming Soon |
-| Longest Increasing Subsequence    | Coming Soon |
-| Matrix Chain Multiplication (MCM) | Coming Soon |
-| DP on Trees                       | Coming Soon |
-| Stocks DP                         | Coming Soon |
-| Palindrome DP                     | Coming Soon |
+| 🚩 # | 🤩 Problem Name             | 🧠 Technique     | 🔗 Problem Link                                                        | ⏱️ Status   |
+| ---- | --------------------------- | ---------------- | ---------------------------------------------------------------------- | ----------- |
+| 26   | Matrix Chain Multiplication | Recursion        | [GFG](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/) | ✅ Completed |
+| 27   | MCM – Memoized (Top-Down)   | Recursion + Memo | [GFG](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/) | ✅ Completed |
+
+---
+
+### ⏳ V. Coming Next (Other DP Categories)
+
+| 🚀 Category                    | ⏳ Status    |
+| ------------------------------ | ----------- |
+| DP on Grids                    | Coming Soon |
+| Longest Increasing Subsequence | Coming Soon |
+| DP on Trees                    | Coming Soon |
+| Stocks DP                      | Coming Soon |
+| Palindrome DP                  | Coming Soon |
 
 ---
 
@@ -114,8 +122,10 @@ DP_Series/
 ├── 20-longest-palindromic-subsequence.cpp
 ├── 21-min-deletion-to-make-palindrome.cpp
 ├── 22-longest-repeating-subsequence.cpp
-├── 23-min-insert-to-make-palindrome.cpp         # 🔥 NEW
-├── 24-sequence-pattern-matching.cpp              # 🔥 NEW
+├── 23-min-insert-to-make-palindrome.cpp
+├── 24-sequence-pattern-matching.cpp
+├── 25-matrix-chain-recursive.cpp                # 🔥 NEW
+├── 26-matrix-chain-memoized.cpp                 # 🔥 NEW
 ├── README.md
 ```
 
