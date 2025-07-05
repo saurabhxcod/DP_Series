@@ -1,5 +1,6 @@
 #include <iostream>
 #include <climits>
+#include <vector>
 using namespace std;
 
 bool isPalindrome(string &s, int i, int j) {
@@ -58,6 +59,7 @@ public:
                 int temp = 1 + solve(s, k + 1, j, dp);
                 ans = min(ans, temp);
             }
+
         }
         return dp[i] = ans;
     }
