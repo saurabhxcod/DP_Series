@@ -8,22 +8,22 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ## 📘 What This Repo Offers Like No Other
 
-✅ **Custom-styled Markdown Interface** – Clean, readable, and attractive ✨
-✅ **C++ Solutions** with extensive comments and time-space analysis 🧠
-✅ **Step-by-step breakdowns** with recursion → memo → tabulation ⟲
-✅ **Code-First Approach** – Less theory, more implementation 🔧
+✅ **Custom-styled Markdown Interface** – Clean, readable, and attractive ✨  
+✅ **C++ Solutions** with extensive comments and time-space analysis 🧠  
+✅ **Step-by-step breakdowns** with recursion → memo → tabulation ⟲  
+✅ **Code-First Approach** – Less theory, more implementation 🔧  
 ✅ **Real-world problem solving from Leetcode, GFG, InterviewBit** 🧑‍💻
 
 ---
 
 ## 🎯 What You'll Learn
 
-* 🔄 Convert Recursion to Tabulation like a pro
-* 💾 Memorization (Top-Down) and Tabulation (Bottom-Up)
-* 🚀 Space Optimized Tricks for interviews
-* 🧹 Classic & Mind-bending DP problems
-* 🧪 Leetcode/GFG Style Breakdown
-* ✍️ Clean code with smart comments
+* 🔄 Convert Recursion to Tabulation like a pro  
+* 💾 Memorization (Top-Down) and Tabulation (Bottom-Up)  
+* 🚀 Space Optimized Tricks for interviews  
+* 🧹 Classic & Mind-bending DP problems  
+* 🧪 Leetcode/GFG Style Breakdown  
+* ✍️ Clean code with smart comments  
 
 ---
 
@@ -70,12 +70,12 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 | 21   | Longest Palindromic Subsequence                | LCS on Reverse     | [Leetcode #516](https://leetcode.com/problems/longest-palindromic-subsequence/) \| [GFG](https://www.geeksforgeeks.org/longest-palindromic-subsequence/)                                   | ✅ Completed |
 | 22   | Min Deletions to Make String Palindromic       | LPS Based          | [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-to-make-a-string-palindrome/)                                                                                                 | ✅ Completed |
 | 23   | Longest Repeating Subsequence                  | LCS with i ≠ j     | [GFG](https://www.geeksforgeeks.org/longest-repeating-subsequence/)                                                                                                                        | ✅ Completed |
-| 24   | Minimum Insertions to Make String Palindrome   | LCS Based          | [GFG](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome/)                                                                                                              | ✅ Completed |
+| 24   | Minimum Insertions to Make Palindrome          | LCS Based          | [GFG](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome/)                                                                                                              | ✅ Completed |
 | 25   | Sequence Pattern Matching (Subsequence Check)  | LCS / Two Pointer  | [GFG](https://www.geeksforgeeks.org/check-if-a-string-is-subsequence-of-another/)                                                                                                          | ✅ Completed |
 
 ---
 
-### 🟨 IV. Matrix Chain Multiplication (MCM) and Variants
+### 🟧 IV. Matrix Chain Multiplication (MCM) and Variants
 
 | 🚩 # | 🤩 Problem Name             | 🧠 Technique     | 🔗 Problem Link                                                        | ⏱️ Status   |
 | ---- | --------------------------- | ---------------- | ---------------------------------------------------------------------- | ----------- |
@@ -84,15 +84,26 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 
 ---
 
-### ⏳ V. Coming Next (Other DP Categories)
+### 🟥 V. Advanced MCM-Based Problems
+
+| 🚩 # | 🤩 Problem Name             | 🧠 Technique           | 🔗 Problem Link                                                                                     | ⏱️ Status   |
+| ---- | --------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------- | ----------- |
+| 28   | Palindrome Partitioning     | Backtrack + Memo       | [Leetcode #131](https://leetcode.com/problems/palindrome-partitioning/)                              | ✅ Completed |
+| 29   | Boolean Parenthesization    | MCM + Boolean DP       | [GFG](https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/)                         | ✅ Completed |
+| 30   | Scramble String             | MCM + String Partition | [Leetcode #87](https://leetcode.com/problems/scramble-string/)                                       | ✅ Completed |
+| 31   | Egg Dropping Problem        | DP Optimization        | [GFG](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)                                      | ✅ Completed |
+
+---
+
+### 🌳 VI. Coming Next – DP on Trees 🌲
 
 | 🚀 Category                    | ⏳ Status    |
 | ------------------------------ | ----------- |
-| DP on Grids                    | Coming Soon |
-| Longest Increasing Subsequence | Coming Soon |
-| DP on Trees                    | Coming Soon |
-| Stocks DP                      | Coming Soon |
-| Palindrome DP                  | Coming Soon |
+| DP on Trees                    | 🚧 Next Up! |
+| Diameter of Tree               | Coming Soon |
+| Longest Path from Node        | Coming Soon |
+| Max Path Sum in Binary Tree    | Coming Soon |
+| Path Sum with Constraints     | Coming Soon |
 
 ---
 
@@ -101,80 +112,9 @@ Welcome to the **Ultimate DP Mastery Repository**, a uniquely designed, visually
 ```bash
 DP_Series/
 ├── 01-knapsack-01.cpp
-├── 02-subset-sum.cpp
-├── 03-equal-sum-partition.cpp
-├── 04-count-subsets-given-sum.cpp
-├── 05-min-subset-sum-diff.cpp
-├── 06-count-subset-diff.cpp
-├── 07-target-sum.cpp
-├── 08-partition-equal-subset.cpp
-├── 09-unbounded-knapsack.cpp
-├── 10-rod-cutting.cpp
-├── 11-coin-change-ways.cpp
-├── 12-coin-change-min.cpp
-├── 13-lcs-memoized.cpp
-├── 14-lcs-tabulated.cpp
-├── 15-longest-common-substring.cpp
-├── 16-print-lcs.cpp
-├── 17-shortest-common-supersequence.cpp
-├── 18-min-insert-delete.cpp
-├── 19-print-scs.cpp
-├── 20-longest-palindromic-subsequence.cpp
-├── 21-min-deletion-to-make-palindrome.cpp
-├── 22-longest-repeating-subsequence.cpp
-├── 23-min-insert-to-make-palindrome.cpp
-├── 24-sequence-pattern-matching.cpp
-├── 25-matrix-chain-recursive.cpp                # 🔥 NEW
-├── 26-matrix-chain-memoized.cpp                 # 🔥 NEW
+├── ...
+├── 28-palindrome-partitioning.cpp
+├── 29-boolean-parenthesization.cpp
+├── 30-scramble-string.cpp
+├── 31-egg-dropping.cpp
 ├── README.md
-```
-
----
-
-## 🚠️ How to Use This Repo
-
-```bash
-# Clone the repo
-$ git clone https://github.com/your-username/dp-series.git
-$ cd dp-series
-
-# Compile and run any file
-$ g++ 16-print-lcs.cpp -o run
-$ ./run
-```
-
----
-
-## 👨‍🎓 Who Should Use This?
-
-* 🧑‍💻 Beginners learning recursion and DP
-* 🌟 Competitive programmers
-* 👩‍💼 Interview candidates for FAANG, startups, and more
-* ⟳ Anyone tired of boring DP tutorials
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome!
-
-* ✅ Add optimized solutions
-* 🤩 Suggest advanced DP challenges
-* 💡 Share unique tricks and ideas
-
----
-
-## 👤 Author
-
-**Saurabh Singh**
-🔥 Passionate C++ Dev | 🧠 Problem Solver | 💼 DSA Mentor
-
-[![GitHub](https://img.shields.io/badge/GitHub-saurabhxcod-black?logo=github)](https://github.com/saurabhxcod)
-
----
-
-## ⭐ If you like it...
-
-Give this repo a ⭐ and share it with your fellow learners!
-
-> "DP is the art of solving problems by remembering past solutions. Make it your strength, not fear."
