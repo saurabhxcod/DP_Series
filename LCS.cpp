@@ -4,7 +4,7 @@ using namespace std;
 
 int lcs(string X, string Y, int m, int n) {
     // Base Case: If either string is empty
-    if (m == 0 || n == 0)
+    if (m== 0 || n == 0)
         return 0;
 
     // If characters match, move diagonally
